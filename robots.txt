@@ -1,1 +1,1 @@
-Sitemap: https://zyang2k.github.io/ScordLab/sitemap.xml
+Sitemap: http://scordilislab.com/sitemap.xml
