@@ -1,5 +1,5 @@
 
-# zyang2kDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Scordilis Lab Website
 
 Visit **[scordilislab.com](http://scordilislab.com)** 🚀
 
