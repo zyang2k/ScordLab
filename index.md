@@ -1,7 +1,9 @@
 ---
 ---
 
-# zyang2kDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Scordilis Lab
+
+## Principle Investigator: Dr. Stylianos P. Scordilis
 
 
 
@@ -11,7 +13,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The lab applies the paradigms and techniques of biochemistry, molecular and cell biology, and proteomics to investigate "What is the response of muscle cells to exercise?" and "Are female and male muscles different?"  They study human and mouse skeletal muscle following eccentrically biased (lengthening) contractions and muscle cell development in cell culture by global analysis of protein expression using proteomic techniques, and specific analysis of certain proteins following exercise by immunoblotting, immunofluorescence, biochemical techniques, confocal microscopy, qRT­-PCR, transcriptomics, as well as high-resolution 2­D gel electrophoresis and nanoscale high-pressure liquid chromatography-­coupled mass spectrometry. This system of proteins orchestrates the mitigation of damage, the repair of damaged muscle, and the acquisition of tolerance to damage.
 
 {%
   include button.html
@@ -34,12 +36,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Professor Scordilis’ research interests are in molecular physiology and sexual dimorphism of skeletal muscle. Ordered, regulated movement is one of the distinguishing characteristics of life. In Scordilis’ lab, students attempt to discover how contractility is maintained following reparable muscle damage. Muscle cells are remarkably adaptable; they can atrophy, hypertrophy, remodel depending on environmental stimuli and repair following a damaging event. All of these adaptations involve stress proteins, enzyme signaling cascades and steroid receptors.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Prof. Scordilis"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -59,7 +61,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Current lab members are...
+
 
 {%
   include button.html
